@@ -1,0 +1,13 @@
+ul li span{
+    width: 100px;
+    height: 100px;
+    background: #fafafa;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+}
